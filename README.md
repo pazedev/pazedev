@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @pazedev
-- 👀 I’m interested in **BE A PROGRAMMER**
-- 🌱 I’m currently learning **JAVASCRIPT**
-- 📫 How to reach me WWW.LINKEDIN.COM/IN/CAROLDPP
+- 👀 I’m interested in **Be a programmer **
+- ✨ I've already studied **HTML and CSS** and I'm looking for projects to improve my knowledge
+- 🌱 I’m currently learning **JAVASCRIPT** but I also have interested in learn C, Java and Python
+- 📫 How to reach me www.linkedin.com/in/caroldpp
 
-<!---
-pazedev/pazedev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
