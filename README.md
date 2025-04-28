@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pazedev
-- 👀 I’m interested in **Be a full stack developer**
+- 👀 I’m interested in **Be a web developer**
 - ✨ I've already studied **HTML and CSS** and I'm looking for projects to improve my knowledge
 - 🌱 I’m currently learning **JAVASCRIPT** 
 - 📫 How to reach me ppires.carol@gmail.com
