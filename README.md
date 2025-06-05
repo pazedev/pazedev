@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pazedev
 - 👀 I’m interested in **Be a web developer**
-- ✨ I've already studied **HTML and CSS** and I'm looking for projects to improve my knowledge
 - 🌱 I’m currently learning **JAVASCRIPT** 
-- 📫 How to reach me ppires.carol@gmail.com
+- ✨ I will use this repository to record my progress in my studies and in the projects I do during the classes, any advice is welcome.
+- - 📫 How to reach me ppires.carol@gmail.com
 - 📫 To know more about me https://www.linkedin.com/in/carolinedpp
 
