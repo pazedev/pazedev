@@ -14,7 +14,7 @@
 
 ## 🛠️ Tech Stack  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=css,js,react,java,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=css,js,react,python, git,github,figma" />
 </p>
 
 ---
@@ -32,7 +32,7 @@
   <a href="https://linkedin.com/in/carolinedpp" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="pazedev@gmail.com">
+  <a href="mailto:pazedev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.behance.net/pazedev" target="_blank">
