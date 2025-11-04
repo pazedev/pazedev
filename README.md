@@ -40,7 +40,7 @@ I’m constantly exploring technologies that merge **visual storytelling**, **us
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pazedev&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pazedev&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pazedev&layout=compact&theme=radical" height="170"/>
 </p>
 
 ---
@@ -49,22 +49,21 @@ I’m constantly exploring technologies that merge **visual storytelling**, **us
 
 <p align="center">
   <a href="https://linkedin.com/in/carolinedpp" target="_blank" title="LinkedIn">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn Logo" height="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:pazedev@gmail.com" target="_blank" title="Email">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.behance.net/pazedev" target="_blank" title="Behance Portfolio">
     <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://trailhead.salesforce.com/" target="_blank" title="Trailhead Profile">
-    <img src="https://img.shields.io/badge/Trailhead-005FB2?style=for-the-badge&logo=trailhead&logoColor=white" alt="Trailhead Badge"/>
+    <img src="https://img.shields.io/badge/Trailhead-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Trailhead Badge"/>
   </a>
 </p>
-
 
 ---
 <p align="center">
