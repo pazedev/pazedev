@@ -12,9 +12,9 @@ My journey is leading me toward becoming a **Salesforce Developer**, exploring h
 
 I’m constantly exploring technologies that merge **visual storytelling**, **user experience**, and **human-centered solutions** because I believe the best interfaces are the ones that feel alive, unforgettable, and genuinely care about the people using them.  
 
-🔭 Currently learning React and exploring Salesforce ecosystems
-💪 Solid foundation in JavaScript, UI structure, and component-based design
-💚 Deeply committed to people-centered technology, code should serve and empower users
+🔭 Currently learning React and exploring Salesforce ecosystems <br>
+💪 Solid foundation in JavaScript, UI structure, and component-based design <br>
+💚 Deeply committed to people-centered technology, code should serve and empower users <br>
 ✨ I believe great design tells a story, and great code brings it to life
 
 ---
@@ -28,7 +28,6 @@ I’m constantly exploring technologies that merge **visual storytelling**, **us
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="50" alt="Vite" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="Figma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" alt="Canva" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="50" alt="Salesforce" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub" />
@@ -50,21 +49,25 @@ I’m constantly exploring technologies that merge **visual storytelling**, **us
 
 <p align="center">
   <a href="https://linkedin.com/in/carolinedpp" target="_blank" title="LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn Logo" height="40" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:pazedev@gmail.com" target="_blank" title="Email">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.behance.net/pazedev" target="_blank" title="Behance Portfolio">
     <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"/>
   </a>
-  <a href="https://www.salesforce.com/trailblazer/pazedev" target="_blank" title="Trailhead Profile">
-    <img src="https://img.shields.io/badge/Trailhead-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Trailhead Badge"/>
+  &nbsp;&nbsp;
+  <a href="https://trailhead.salesforce.com/" target="_blank" title="Trailhead Profile">
+    <img src="https://img.shields.io/badge/Trailhead-005FB2?style=for-the-badge&logo=trailhead&logoColor=white" alt="Trailhead Badge"/>
   </a>
 </p>
 
 
 ---
-
+<p align="center">
 ✨ _Thanks for visiting my profile!_ ✨
+</p>
 
