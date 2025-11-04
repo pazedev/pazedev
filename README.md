@@ -1,8 +1,4 @@
 # 👋 Hi, I'm Caroline — but you can call me **Pazedev**  
-
-<div align="center">
-
-# 💚 Hi, I'm Caroline — but you can call me Pazedev  
 💻 Front-End Developer in Progress  | ☁️ Salesforce Adventurer | 🎨 Code & Visuals Enthusiast  
 
 ---
@@ -16,35 +12,31 @@ My journey is leading me toward becoming a **Salesforce Developer**, exploring h
 
 I’m constantly exploring technologies that merge **visual storytelling**, **user experience**, and **human-centered solutions** because I believe the best interfaces are the ones that feel alive, unforgettable, and genuinely care about the people using them.  
 
----
-
-### 🧩 Tech Stack
-
-#### 💻 Languages & Core  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
-
-#### ⚛️ Front-End Frameworks & Libraries  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff)
-
-#### 🎨 Design & UI  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=fff)
-
-#### ☁️ Salesforce Ecosystem  
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=fff)
-![Apex](https://img.shields.io/badge/Apex-009EDB?style=for-the-badge&logo=salesforce&logoColor=fff)
-![Lightning Web Components](https://img.shields.io/badge/LWC-0176D3?style=for-the-badge&logo=lightning&logoColor=fff)
-
-#### 🛠️ Tools & Workflow  
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
-![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=fff)
+🔭 Currently learning React and exploring Salesforce ecosystems
+💪 Solid foundation in JavaScript, UI structure, and component-based design
+💚 Deeply committed to people-centered technology, code should serve and empower users
+✨ I believe great design tells a story, and great code brings it to life
 
 ---
 
+### 🧩 Tech Stack  
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="50" alt="Vite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" alt="Canva" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="50" alt="Salesforce" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VSCode" />
+</p>
+
+---
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -55,17 +47,22 @@ I’m constantly exploring technologies that merge **visual storytelling**, **us
 ---
 
 ## 📬 Find me here
-<p align="left">
-  <a href="https://linkedin.com/in/carolinedpp" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+<p align="center">
+  <a href="https://linkedin.com/in/carolinedpp" target="_blank" title="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:pazedev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:pazedev@gmail.com" target="_blank" title="Email">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
-  <a href="https://www.behance.net/pazedev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+  <a href="https://www.behance.net/pazedev" target="_blank" title="Behance Portfolio">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"/>
+  </a>
+  <a href="https://www.salesforce.com/trailblazer/pazedev" target="_blank" title="Trailhead Profile">
+    <img src="https://img.shields.io/badge/Trailhead-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Trailhead Badge"/>
   </a>
 </p>
+
 
 ---
 
