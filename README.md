@@ -39,7 +39,7 @@ I’m constantly exploring technologies that merge **visual storytelling**, **us
 
 ## 📊 GitHub Stats
 <p align="center">
-   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pazedev&show_icons=true&theme=radical)
+   ![Commit Streak](https://img.shields.io/badge/Commit%20Streak-🔥%20XX-blue)
 </p>
 
 ---
