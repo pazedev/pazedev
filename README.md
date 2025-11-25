@@ -39,9 +39,7 @@ I’m constantly exploring technologies that merge **visual storytelling**, **us
 
 ## 📊 GitHub Stats
 <p align="center">
-  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=caroline-dev&theme=radical)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caroline-dev&layout=compact&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pazedev&layout=compact&theme=radical)
 </p>
 
 ---
