@@ -39,7 +39,7 @@ I’m constantly exploring technologies that merge **visual storytelling**, **us
 
 ## 📊 GitHub Stats
 <p align="center">
-    ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=pazedev&theme=radical)
+   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pazedev&show_icons=true&theme=radical)
 </p>
 
 ---
