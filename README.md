@@ -5,16 +5,15 @@
 
 ### ✨ About Me
 
-I’m a **Front-End Developer** passionate about creating responsive, intelligent, and adaptable platforms that connect different universes through design and code.  
-With solid foundations in **JavaScript** and **UI/UX Design**, I focus on transforming creative concepts into living, functional, and visually engaging code.  
+I'm a Front-End Developer passionate about creating responsive, intelligent, and adaptable platforms that connect different universes through design and code.
+With solid foundations in JavaScript and UI/UX Design, I focus on transforming creative concepts into living, functional, and visually engaging code.
 
-My journey is leading me toward becoming a **Salesforce Developer**, exploring how technology, design, and accessibility can come together to empower both people and businesses.  
+I'm constantly exploring technologies that merge visual storytelling, user experience, and human-centered solutions because I believe the best interfaces are the ones that feel alive, unforgettable, and genuinely care about the people using them.
 
-I’m constantly exploring technologies that merge **visual storytelling**, **user experience**, and **human-centered solutions** because I believe the best interfaces are the ones that feel alive, unforgettable, and genuinely care about the people using them.  
-
-🔭 Currently learning React and exploring Salesforce ecosystems <br>
-💪 Solid foundation in JavaScript, UI structure, and component-based design <br>
-💚 Deeply committed to people-centered technology, code should serve and empower users <br>
+🎯 Aspiring to become a Project Manager, combining technical expertise with strong communication skills to bridge the gap between teams and deliver impactful solutions
+🔭 Currently learning React and expanding my knowledge across diverse ecosystems (including Salesforce)
+💪 Solid foundation in JavaScript, UI structure, and component-based design
+💚 Deeply committed to people-centered technology, code should serve and empower users
 ✨ I believe great design tells a story, and great code brings it to life
 
 ---
